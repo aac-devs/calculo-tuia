@@ -5,6 +5,7 @@
 ## 3. Función derivada.
 ## 4. Derivada de funciones elementales.
 ## 5. Álgebra de derivadas.
+- 27a, 27b, 27c, 27d
 ## 6. Recta tangente a una curva.
 ## 7. Regla de la cadena.
 ## 8. Números críticos. Crecimiento y decrecimiento. Máximos y mínimos locales y absolutos.
