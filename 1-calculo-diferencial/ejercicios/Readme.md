@@ -4,9 +4,10 @@
 ## 2. Interpretación geométrica.
 ## 3. Función derivada.
 ## 4. Derivada de funciones elementales.
-## 5. Álgebra de derivadas.
 - 27a, 27b, 27c, 27d
 - 28
+## 5. Álgebra de derivadas.
+- 45: a, b, c, d
 ## 6. Recta tangente a una curva.
 ## 7. Regla de la cadena.
 ## 8. Números críticos. Crecimiento y decrecimiento. Máximos y mínimos locales y absolutos.
